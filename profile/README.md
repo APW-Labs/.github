@@ -114,10 +114,10 @@ Porting a ROM, writing a microservice, shipping a desktop tool, squeezing a mode
 [![Community](https://img.shields.io/badge/Community-AndroidPortWorld-FF1493?style=for-the-badge&labelColor=1a1a1a&logo=android&logoColor=white)](https://github.com/AndroidPortWorld)
 
 [![linkedin](https://img.shields.io/badge/linkedin-join-FF1493?style=for-the-badge&labelColor=1a1a1a&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/apw-labs)
-[![Telegram](https://img.shields.io/badge/Telegram-join-FF1493?style=for-the-badge&labelColor=1a1a1a&logo=telegram&logoColor=white)](https://t.me/AndroidPortWorld)
+[![Telegram](https://img.shields.io/badge/Telegram-join-FF1493?style=for-the-badge&labelColor=1a1a1a&logo=telegram&logoColor=white)](https://t.me/APWLabsDiscussion)
 
 <br />
 
-<sub>APW Labs · open source · no deadlines</sub>
+<sub>APW Labs 2026 · Open source</sub>
 
 </div>
